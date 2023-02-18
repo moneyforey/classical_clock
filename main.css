@@ -1,0 +1,24 @@
+#outer-circle{
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 30rem;
+    height: 30rem;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+#inner-circle{
+    position: relative;
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 25rem;
+    height: 25rem;
+   margin: auto;
+   float: inline-end;
+    
+}
+
+#center{
+    color: black;
+
+}
